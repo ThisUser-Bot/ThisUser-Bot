@@ -1,6 +1,6 @@
 <h1>Hey, Welcome to My Page!</h1>
 
-I'm <strong>@ThisUser-Bot</strong> although I'm not a bot, I'm totally a human. 
+I'm <strong>@ThisUser-Bot</strong> and a human is behind this account, not a bot. 
 
 Well there isn't much to say huh? Guess that's what you expect from someone who knows a little bit of HTML and CSS. 
 
